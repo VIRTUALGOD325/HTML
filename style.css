@@ -1,0 +1,11 @@
+.grid{
+    
+    color: red; 
+    border:solid;
+    
+}
+
+.icon{
+    display: flex;
+    justify-content: flex-end;
+}
